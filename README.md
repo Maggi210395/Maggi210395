@@ -21,15 +21,19 @@ I am a **Business & Data Analyst** passionate about bridging the gap between com
 
 * **Executive KPI Performance Dashboard** 📊
     - Built SQL data models to calculate enterprise metrics and designed interactive drill-down dashboards for leadership tracking.
-    - 👉 [View Repository](https://github.com/Maggi210395)
+    - 👉 [View Repository](https://github.com/Maggi210395/Executive-KPI-Performance-Dashboard)
     
 * **Retail Demand Forecasting & Inventory Optimization** 📈
     - Predicting weekly product demand using Prophet time-series modeling and optimizing simulated inventory costs.
-    - 👉 [View Repository](https://github.com/Maggi210395)
+    - 👉 [View Repository](https://github.com/Maggi210395/Retail-Demand-Forecasting-Inventory-Optimization)
 
 * **Customer Segmentation & Marketing Strategy** 🎯
     - Developed K-Means clustering models to segment customers and designed Power BI dashboards to drive targeted marketing simulations.
-    - 👉 [View Repository](https://github.com/Maggi210395)
+    - 👉 [View Repository](https://github.com/Maggi210395/Customer-Segmentation-Marketing-Strategy)
+
+* **Enterprise Data Quality & Exception Auditing Layer** 🔍
+    - Designed a robust database quality layer in SQL to programmatically flag, log, and quarantine corrupted records.
+    - 👉 [View Repository](https://github.com/Maggi210395/Enterprise-Data-Quality-Audit)
 
 ---
 
