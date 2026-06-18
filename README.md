@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**Maggi210395/Maggi210395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Meghana Dhaygude 👋
 
-Here are some ideas to get you started:
+I am a **Business & Data Analyst** passionate about bridging the gap between complex data and strategic business decisions. I specialize in turning messy data into clean pipelines, interactive dashboards, and actionable executive insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Toolkit
+
+* **Data Analysis & Scripting:** Python (Pandas, NumPy, Prophet), R
+* **Database & Querying:** SQL (PostgreSQL, MySQL), ETL Pipelines, Data Modeling
+* **Data Visualization:** Tableau, Power BI, Excel
+* **Business Analysis & Agile:** Requirements Gathering (BRD/FRD), User Stories, Agile/Scrum, Flowcharting (Lucidchart/Miro)
+
+---
+
+### 🚀 Featured Projects
+
+* **Executive KPI Performance Dashboard** 📊
+    * *Built SQL data models to calculate enterprise metrics and designed interactive drill-down dashboards for leadership tracking.*
+    * 👉 [View Repository](link-to-your-future-repo)
+
+* **Retail Demand Forecasting & Inventory Optimization** 📈
+    * *Predicting weekly product demand using Prophet time-series modeling and optimizing simulated inventory costs.*
+    * 👉 [View Repository](link-to-your-future-repo)
+
+---
+
+### 📫 Connect with Me
+* **LinkedIn:** https://www.linkedin.com/in/meghana-dhaygude/
+* **Email:** meghana.dhaygude@gmail.com
