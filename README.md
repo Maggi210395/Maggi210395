@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Meghana Dhaygude 👋
 
 I am a **Business & Data Analyst** passionate about bridging the gap between complex data and strategic business decisions. I specialize in turning messy data into clean pipelines, interactive dashboards, and actionable executive insights.
